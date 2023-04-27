@@ -1,0 +1,2 @@
+# excel_file_operation_by_openpyxl
+工業高校でPythonを指導する際に作成した教材です。OpenPyXlでExcel操作をします。
